@@ -2,8 +2,12 @@
 ###############################################################################
 # 'md2html.py'
 #
-# A simple library to convert basic markdown text to HTML using the 'markup.py'
+# About: A simple library to convert basic markdown text to HTML using the 'markup.py'
 # library.
+#
+# Version: 0.01
+# Author: Kevin Kelley [kevin@thesta.in] (http://thesta.in)
+# License: WTFPL
 
 ###############################################################################
 # Configuration
